@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/horacechan0251-ux/thai-amulet-weekly-report-updates/releases/download/v1.0.0/thai-amulet-weekly-report-automation-1.0.0.zip",
-  "sha256": "ef3a1f2b6881baf3c76577c8b694cd004ce3e0a1ab4b4ae007bf7e0c307d5054",
+  "version": "1.0.1",
+  "download_url": "https://github.com/horacechan0251-ux/thai-amulet-weekly-report-updates/releases/download/v1.0.1/thai-amulet-weekly-report-automation-1.0.1.zip",
+  "sha256": "8d72bc64917ed597598930a22e96df3529a5eb7e1f71133e44257a87c3178ed0",
   "release_notes": ["固定佛牌週報版式、搜索類型、渠道、週期與更新安全規則。"]
 }
