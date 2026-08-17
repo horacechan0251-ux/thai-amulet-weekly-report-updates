@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/horacechan0251-ux/thai-amulet-weekly-report-updates/releases/download/v1.0.4/thai-amulet-weekly-report-automation-1.0.4.zip",
-  "sha256": "4c10cecaa90c2e71cf2f9d82b43f901e272b1ffb470364f51481342e4482a05e",
-  "release_notes": ["固定佛牌週報版式、搜索類型、渠道、週期與更新安全規則。"]
+  "version": "1.0.5",
+  "download_url": "https://github.com/horacechan0251-ux/thai-amulet-weekly-report-updates/releases/download/v1.0.5/thai-amulet-weekly-report-automation-1.0.5.zip",
+  "sha256": "b24dc67832d5d7064fc9d718a22b1d4fb79c540b6b0db02d8802b5bbcc7ae766",
+  "release_notes": ["來源按實際出處標示：只有寺廟／大師／基金會／發行方第一方網站可稱官網；市場、認證、協會、新聞及社媒均標示對應類型。", "固定佛牌週報版式、搜索類型、渠道、週期與更新安全規則。"]
 }
