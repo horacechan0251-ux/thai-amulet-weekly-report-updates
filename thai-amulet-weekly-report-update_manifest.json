@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/horacechan0251-ux/thai-amulet-weekly-report-updates/releases/download/v1.0.5/thai-amulet-weekly-report-automation-1.0.5.zip",
-  "sha256": "b24dc67832d5d7064fc9d718a22b1d4fb79c540b6b0db02d8802b5bbcc7ae766",
-  "release_notes": ["來源按實際出處標示：只有寺廟／大師／基金會／發行方第一方網站可稱官網；市場、認證、協會、新聞及社媒均標示對應類型。", "固定佛牌週報版式、搜索類型、渠道、週期與更新安全規則。"]
+  "version": "1.0.6",
+  "download_url": "https://github.com/horacechan0251-ux/thai-amulet-weekly-report-updates/releases/download/v1.0.6/thai-amulet-weekly-report-automation-1.0.6.zip",
+  "sha256": "2cfb934e1c22fe179575b98eb515ad177edb6d1ca0aa59c5a23fcbc70cb4a88b",
+  "release_notes": ["新聞改為先建立日期窗候選池，再按佛牌關聯度分類；固定關鍵字只作覆蓋探針，避免遺漏未預設的新聞類型。", "社媒日期須以原帖精確時間換算泰國時間；PDF 中泰字形須經渲染檢查，缺字時改用嵌入 Unicode 字體。", "來源按實際出處標示：只有寺廟／大師／基金會／發行方第一方網站可稱官網；市場、認證、協會、新聞及社媒均標示對應類型。"]
 }
